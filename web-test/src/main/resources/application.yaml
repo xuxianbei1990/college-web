@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: report-server
+
+  profiles:
+    active: dev
+
+server:
+  port: 48084
+

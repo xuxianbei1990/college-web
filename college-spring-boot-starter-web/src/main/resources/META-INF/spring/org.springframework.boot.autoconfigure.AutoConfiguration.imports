@@ -1,0 +1,4 @@
+college.framework.banner.config.MyBannerAutoConfiguration
+college.framework.apilog.config.MyApiLogAutoConfiguration
+college.framework.jackson.config.MyJacksonAutoConfiguration
+college.framework.web.config.MyWebAutoConfiguration
